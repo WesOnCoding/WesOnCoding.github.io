@@ -8,6 +8,10 @@ body {
   padding: 0px;
 }
 
+h1, h3 {
+  padding: 60px 60px;
+}
+
 .header {
   background-color: #8c00cc;
   border-bottom: 1px solid #8c00cc;
@@ -17,4 +21,5 @@ body {
   left: 0;
   width: 100%;
   z-index: 10000;
+  display: block;
 }
