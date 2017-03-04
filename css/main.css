@@ -4,7 +4,7 @@
 
 body {
   background-color: #FFF;
-  background: #ffffff url("background.png") no-repeat right top;
+  background: #ffffff url("Website Images/background.png") no-repeat right top;
   margin: 0px;
   padding: 0px;
 }
@@ -34,7 +34,7 @@ h1, h3 {
   background-color: #8c00cc;
   border: 1px solid #8c00cc;
   width: 100%;
-  text-align: right;
+  text-align: left;
 }
 
 a {
