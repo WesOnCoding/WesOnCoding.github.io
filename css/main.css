@@ -4,6 +4,7 @@
 
 body {
   background-color: #FFF;
+  background: #ffffff url("background.png") no-repeat right top;
   margin: 0px;
   padding: 0px;
 }
