@@ -23,6 +23,7 @@ h1, h3 {
   left: 0;
   width: 60%;
   z-index: 10000;
+  text-align: center;
 }
 
 .header li {
