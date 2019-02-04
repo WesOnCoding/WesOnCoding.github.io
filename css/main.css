@@ -39,4 +39,8 @@ h1, p {
   border: 10px solid #8c00cc;
   width: 100%;
   text-align: right;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  color: white;
 }
