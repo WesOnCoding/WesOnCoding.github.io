@@ -10,10 +10,6 @@ body {
   font-family: sans-serif;
 }
 
-h1, p {
-  /*padding: 60px 60px;*/
-}
-
 .header {
   border: 1px solid #8c00cc;
   border-width: 1px 0;
@@ -37,10 +33,11 @@ h1, p {
 .footer {
   background-color: #8c00cc;
   /*border: 10px solid #8c00cc;*/
-  width: 100%;
+  width: 80%;
   text-align: right;
   position: fixed;
   left: 0;
   bottom: 0;
   color: white;
+  padding-right: 10px;
 }
