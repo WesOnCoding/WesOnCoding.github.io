@@ -36,7 +36,7 @@ h1, p {
 
 .footer {
   background-color: #8c00cc;
-  border: 10px solid #8c00cc;
+  /*border: 10px solid #8c00cc;*/
   width: 100%;
   text-align: right;
   position: fixed;
