@@ -1,1 +1,1 @@
-Test
+alert("JS File Worked.");
