@@ -22,7 +22,11 @@ p {
 img {
   margin-left: 25%;
   outline-style: solid;
-  outline-width: 10px;
+  outline-width: 20px;
+  height: auto; 
+  width: auto; 
+  max-width: 500px; 
+  max-height: 500px;
 }
 
 .header {
