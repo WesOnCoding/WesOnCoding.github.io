@@ -21,8 +21,10 @@ p {
 
 img {
   margin-left: 25%;
+  margin-top: 15px;
+  margin-bottom: 15px;
   outline-style: solid;
-  outline-width: 20px;
+  outline-width: 10px;
   height: auto; 
   width: auto; 
   max-width: 500px; 
