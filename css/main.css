@@ -13,10 +13,16 @@ h3 {
   margin-right: 20%;
 }
 
-p, img {
+p {
   margin-left: 25%;
   margin-right: 20%;
   text-decoration: none;
+}
+
+img {
+  margin-left: 25%;
+  outline-style: solid;
+  outline-width: 10px;
 }
 
 .header {
